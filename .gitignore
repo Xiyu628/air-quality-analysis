@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# VS Code
+.vscode/
+
+# Temporary files
+tmp/
+
+# Archives
+*.zip
+
+# Raw datasets
+data/raw/

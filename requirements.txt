@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+geopandas
+shapely
+scipy
+matplotlib
+seaborn
+reportlab
+pypdf

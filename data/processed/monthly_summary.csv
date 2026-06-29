@@ -1,0 +1,455 @@
+station,pollutant,month,monthly_mean
+Alphington,CO,1,0.11
+Alphington,CO,2,0.12
+Alphington,CO,3,0.15
+Alphington,CO,4,0.19
+Alphington,CO,5,0.38
+Alphington,CO,6,0.31
+Alphington,CO,7,0.27
+Alphington,CO,8,0.23
+Alphington,CO,9,0.17
+Alphington,CO,10,0.16
+Alphington,CO,11,0.16
+Alphington,CO,12,0.11
+Alphington,NO2,1,4.61
+Alphington,NO2,2,5.7
+Alphington,NO2,3,7.34
+Alphington,NO2,4,8.98
+Alphington,NO2,5,13.11
+Alphington,NO2,6,12.37
+Alphington,NO2,7,10.9
+Alphington,NO2,8,9.03
+Alphington,NO2,9,7.54
+Alphington,NO2,10,6.69
+Alphington,NO2,11,6.79
+Alphington,NO2,12,4.34
+Alphington,O3,1,16.06
+Alphington,O3,2,18.24
+Alphington,O3,3,16.94
+Alphington,O3,4,11.55
+Alphington,O3,5,7.91
+Alphington,O3,6,10.82
+Alphington,O3,7,13.88
+Alphington,O3,8,16.24
+Alphington,O3,9,21.71
+Alphington,O3,10,22.44
+Alphington,O3,11,21.26
+Alphington,O3,12,19.47
+Alphington,PM10,1,17.42
+Alphington,PM10,2,24.79
+Alphington,PM10,3,25.21
+Alphington,PM10,4,15.27
+Alphington,PM10,5,20.65
+Alphington,PM10,6,14.82
+Alphington,PM10,7,14.32
+Alphington,PM10,8,15.76
+Alphington,PM10,9,14.79
+Alphington,PM10,10,17.57
+Alphington,PM10,11,21.3
+Alphington,PM10,12,18.1
+Alphington,PM2.5,1,6.09
+Alphington,PM2.5,2,7.26
+Alphington,PM2.5,3,9.09
+Alphington,PM2.5,4,7.19
+Alphington,PM2.5,5,14.21
+Alphington,PM2.5,6,8.9
+Alphington,PM2.5,7,8.33
+Alphington,PM2.5,8,7.6
+Alphington,PM2.5,9,5.33
+Alphington,PM2.5,10,6.14
+Alphington,PM2.5,11,7.51
+Alphington,SO2,1,0.01
+Alphington,SO2,2,0.04
+Alphington,SO2,3,-0.03
+Alphington,SO2,4,0.07
+Alphington,SO2,5,0.38
+Alphington,SO2,6,0.42
+Alphington,SO2,7,0.34
+Alphington,SO2,8,0.43
+Alphington,SO2,9,0.2
+Alphington,SO2,10,0.19
+Alphington,SO2,11,0.08
+Alphington,SO2,12,0.02
+Altona North,NO2,1,4.7
+Altona North,NO2,2,4.56
+Altona North,NO2,3,5.86
+Altona North,NO2,4,5.73
+Altona North,NO2,5,12.65
+Altona North,NO2,6,11.21
+Altona North,NO2,7,11.22
+Altona North,NO2,8,12.25
+Altona North,NO2,12,4.58
+Altona North,SO2,1,-0.04
+Altona North,SO2,2,-0.09
+Altona North,SO2,3,0.09
+Altona North,SO2,4,0.14
+Altona North,SO2,5,0.17
+Altona North,SO2,6,0.46
+Altona North,SO2,7,0.51
+Altona North,SO2,8,0.12
+Altona North,SO2,9,-0.08
+Altona North,SO2,10,0.12
+Altona North,SO2,11,0.16
+Altona North,SO2,12,0.35
+Box Hill,PM2.5,1,5.17
+Box Hill,PM2.5,3,17.03
+Box Hill,PM2.5,4,5.13
+Box Hill,PM2.5,5,9.93
+Box Hill,PM2.5,6,6.75
+Box Hill,PM2.5,7,6.62
+Box Hill,PM2.5,8,5.77
+Box Hill,PM2.5,9,4.88
+Box Hill,PM2.5,10,5.28
+Box Hill,PM2.5,11,5.98
+Box Hill,PM2.5,12,5.11
+Brighton,PM2.5,1,6.67
+Brighton,PM2.5,2,7.74
+Brighton,PM2.5,3,9.46
+Brighton,PM2.5,4,6.41
+Brighton,PM2.5,5,11.94
+Brighton,PM2.5,6,7.03
+Brighton,PM2.5,7,8.17
+Brighton,PM2.5,8,8.7
+Brighton,PM2.5,9,6.73
+Brighton,PM2.5,10,7.6
+Brighton,PM2.5,11,8.6
+Brighton,PM2.5,12,7.35
+Brooklyn,PM10,2,29.31
+Brooklyn,PM10,3,30.49
+Brooklyn,PM10,4,18.07
+Brooklyn,PM10,5,27.24
+Brooklyn,PM10,6,20.18
+Brooklyn,PM10,7,20.68
+Brooklyn,PM10,8,26.22
+Brooklyn,PM10,9,20.19
+Brooklyn,PM10,10,22.23
+Brooklyn,PM10,11,23.94
+Brooklyn,PM10,12,22.33
+Dandenong,NO2,1,5.79
+Dandenong,NO2,2,7.07
+Dandenong,NO2,3,8.72
+Dandenong,NO2,4,10.2
+Dandenong,NO2,5,14.62
+Dandenong,NO2,6,14.37
+Dandenong,NO2,7,12.4
+Dandenong,NO2,8,10.55
+Dandenong,NO2,9,8.07
+Dandenong,NO2,10,22.71
+Dandenong,NO2,11,10.63
+Dandenong,NO2,12,5.59
+Dandenong,O3,1,15.33
+Dandenong,O3,2,17.44
+Dandenong,O3,3,17.6
+Dandenong,O3,4,13.54
+Dandenong,O3,5,10.54
+Dandenong,O3,6,12.41
+Dandenong,O3,7,15.19
+Dandenong,O3,8,18.34
+Dandenong,O3,9,23.12
+Dandenong,O3,10,22.98
+Dandenong,O3,11,22.98
+Dandenong,O3,12,20.46
+Dandenong,PM10,1,17.02
+Dandenong,PM10,2,24.66
+Dandenong,PM10,3,26.26
+Dandenong,PM10,4,14.78
+Dandenong,PM10,5,18.19
+Dandenong,PM10,6,14.23
+Dandenong,PM10,7,12.44
+Dandenong,PM10,8,14.18
+Dandenong,PM10,9,14.94
+Dandenong,PM10,10,18.45
+Dandenong,PM10,11,22.53
+Dandenong,PM10,12,18.89
+Dandenong,PM2.5,1,5.66
+Dandenong,PM2.5,2,6.74
+Dandenong,PM2.5,3,8.35
+Dandenong,PM2.5,4,5.32
+Dandenong,PM2.5,5,9.75
+Dandenong,PM2.5,6,5.89
+Dandenong,PM2.5,7,5.83
+Dandenong,PM2.5,8,6.26
+Dandenong,PM2.5,9,4.74
+Dandenong,PM2.5,10,5.74
+Dandenong,PM2.5,11,6.58
+Dandenong,PM2.5,12,5.59
+Geelong South,CO,2,0.11
+Geelong South,CO,3,0.11
+Geelong South,CO,4,0.11
+Geelong South,CO,5,0.2
+Geelong South,CO,9,0.15
+Geelong South,CO,10,0.14
+Geelong South,CO,11,0.14
+Geelong South,CO,12,0.12
+Geelong South,NO2,1,2.71
+Geelong South,NO2,2,3.98
+Geelong South,NO2,3,4.48
+Geelong South,NO2,4,5.19
+Geelong South,NO2,5,9.52
+Geelong South,NO2,6,10.12
+Geelong South,NO2,7,10.49
+Geelong South,NO2,8,14.51
+Geelong South,NO2,9,4.42
+Geelong South,NO2,10,4.56
+Geelong South,NO2,11,3.87
+Geelong South,NO2,12,3.06
+Geelong South,O3,1,15.19
+Geelong South,O3,2,16.54
+Geelong South,O3,3,17.54
+Geelong South,O3,4,13.89
+Geelong South,O3,5,14.46
+Geelong South,O3,6,16.0
+Geelong South,O3,7,17.38
+Geelong South,O3,8,17.35
+Geelong South,O3,9,24.59
+Geelong South,O3,10,23.96
+Geelong South,O3,11,22.71
+Geelong South,O3,12,19.26
+Geelong South,PM10,1,22.13
+Geelong South,PM10,2,41.96
+Geelong South,PM10,3,31.31
+Geelong South,PM10,4,17.55
+Geelong South,PM10,5,23.42
+Geelong South,PM10,6,20.69
+Geelong South,PM10,7,20.93
+Geelong South,PM10,8,28.55
+Geelong South,PM10,9,17.14
+Geelong South,PM10,10,21.53
+Geelong South,PM10,11,23.62
+Geelong South,PM10,12,21.64
+Geelong South,PM2.5,1,5.07
+Geelong South,PM2.5,2,5.68
+Geelong South,PM2.5,6,5.06
+Geelong South,PM2.5,7,5.15
+Geelong South,PM2.5,8,5.95
+Geelong South,PM2.5,9,3.46
+Geelong South,PM2.5,10,4.7
+Geelong South,PM2.5,11,5.6
+Geelong South,PM2.5,12,4.69
+Geelong South,SO2,1,0.31
+Geelong South,SO2,2,0.1
+Geelong South,SO2,3,0.21
+Geelong South,SO2,4,0.13
+Geelong South,SO2,5,0.29
+Geelong South,SO2,6,0.29
+Geelong South,SO2,7,0.33
+Geelong South,SO2,8,0.33
+Geelong South,SO2,9,0.21
+Geelong South,SO2,10,0.19
+Geelong South,SO2,11,0.36
+Geelong South,SO2,12,0.25
+Macleod,PM2.5,1,8.84
+Macleod,PM2.5,5,3.42
+Macleod,PM2.5,6,4.87
+Macleod,PM2.5,7,4.84
+Macleod,PM2.5,8,4.26
+Macleod,PM2.5,9,3.19
+Macleod,PM2.5,10,4.08
+Macleod,PM2.5,11,4.77
+Macleod,PM2.5,12,3.94
+Melbourne CBD,PM2.5,1,7.64
+Melbourne CBD,PM2.5,2,8.86
+Melbourne CBD,PM2.5,3,10.63
+Melbourne CBD,PM2.5,4,7.64
+Melbourne CBD,PM2.5,5,13.63
+Melbourne CBD,PM2.5,6,7.9
+Melbourne CBD,PM2.5,7,8.28
+Melbourne CBD,PM2.5,8,7.73
+Melbourne CBD,PM2.5,9,6.32
+Melbourne CBD,PM2.5,10,8.09
+Melbourne CBD,PM2.5,11,8.76
+Melbourne CBD,PM2.5,12,7.53
+Melton,O3,1,17.15
+Melton,O3,2,18.85
+Melton,O3,3,19.76
+Melton,O3,4,16.06
+Melton,O3,5,13.2
+Melton,O3,6,16.57
+Melton,O3,7,19.16
+Melton,O3,8,19.92
+Melton,O3,9,24.93
+Melton,O3,10,25.08
+Melton,O3,11,24.65
+Melton,O3,12,21.27
+Melton,PM2.5,1,4.93
+Melton,PM2.5,2,6.4
+Melton,PM2.5,3,6.94
+Melton,PM2.5,4,4.85
+Melton,PM2.5,5,6.64
+Melton,PM2.5,6,4.01
+Melton,PM2.5,7,4.33
+Melton,PM2.5,8,4.72
+Melton,PM2.5,9,3.34
+Melton,PM2.5,10,4.52
+Melton,PM2.5,11,5.5
+Melton,PM2.5,12,4.77
+Mooroolbark,O3,1,16.8
+Mooroolbark,O3,2,18.29
+Mooroolbark,O3,3,18.54
+Mooroolbark,O3,4,11.89
+Mooroolbark,O3,8,20.86
+Mooroolbark,O3,9,22.66
+Mooroolbark,O3,10,22.6
+Mooroolbark,O3,11,23.46
+Mooroolbark,O3,12,21.61
+Mooroolbark,PM10,1,13.98
+Mooroolbark,PM10,2,20.3
+Mooroolbark,PM10,3,22.57
+Mooroolbark,PM10,4,13.59
+Mooroolbark,PM10,5,17.69
+Mooroolbark,PM10,6,12.51
+Mooroolbark,PM10,7,10.97
+Mooroolbark,PM10,8,12.07
+Mooroolbark,PM10,9,13.24
+Mooroolbark,PM10,10,14.46
+Mooroolbark,PM10,11,16.96
+Mooroolbark,PM10,12,15.6
+Morwell East,CO,2,0.12
+Morwell East,CO,3,0.11
+Morwell East,CO,4,0.25
+Morwell East,CO,5,0.21
+Morwell East,CO,6,0.23
+Morwell East,CO,7,0.25
+Morwell East,CO,8,0.22
+Morwell East,CO,9,0.15
+Morwell East,CO,10,0.13
+Morwell East,CO,11,0.14
+Morwell East,CO,12,0.1
+Morwell East,SO2,1,0.31
+Morwell East,SO2,2,0.08
+Morwell East,SO2,3,0.82
+Morwell East,SO2,4,0.17
+Morwell East,SO2,5,0.18
+Morwell East,SO2,6,0.38
+Morwell East,SO2,7,0.39
+Morwell East,SO2,8,0.78
+Morwell East,SO2,9,0.8
+Morwell East,SO2,10,0.21
+Morwell East,SO2,11,0.34
+Morwell East,SO2,12,0.37
+Morwell South,CO,1,0.09
+Morwell South,CO,2,0.09
+Morwell South,CO,3,0.09
+Morwell South,CO,4,0.11
+Morwell South,CO,5,0.16
+Morwell South,CO,8,0.12
+Morwell South,CO,9,0.14
+Morwell South,CO,10,0.12
+Morwell South,CO,11,0.13
+Morwell South,CO,12,0.1
+Morwell South,NO2,1,2.41
+Morwell South,NO2,2,3.09
+Morwell South,NO2,3,3.69
+Morwell South,NO2,5,5.36
+Morwell South,NO2,6,6.24
+Morwell South,NO2,7,5.73
+Morwell South,NO2,8,5.67
+Morwell South,NO2,9,3.96
+Morwell South,NO2,10,3.44
+Morwell South,NO2,11,3.28
+Morwell South,NO2,12,2.71
+Morwell South,O3,1,13.71
+Morwell South,O3,2,15.93
+Morwell South,O3,3,17.3
+Morwell South,O3,4,13.74
+Morwell South,O3,5,14.07
+Morwell South,O3,6,13.84
+Morwell South,O3,7,16.12
+Morwell South,O3,8,10.7
+Morwell South,O3,9,24.65
+Morwell South,O3,10,24.01
+Morwell South,O3,11,24.08
+Morwell South,SO2,1,0.6
+Morwell South,SO2,2,0.5
+Morwell South,SO2,3,0.57
+Morwell South,SO2,4,0.17
+Morwell South,SO2,5,0.27
+Morwell South,SO2,6,0.43
+Morwell South,SO2,7,0.58
+Morwell South,SO2,8,0.79
+Morwell South,SO2,9,0.65
+Morwell South,SO2,10,0.69
+Morwell South,SO2,11,0.68
+Morwell South,SO2,12,0.6
+Point Cook,O3,1,16.49
+Point Cook,O3,2,18.77
+Point Cook,O3,3,19.34
+Point Cook,O3,4,17.33
+Point Cook,O3,5,14.44
+Point Cook,O3,6,18.14
+Point Cook,O3,7,18.57
+Point Cook,O3,8,18.22
+Point Cook,O3,9,25.14
+Point Cook,O3,10,23.62
+Point Cook,O3,11,24.31
+Point Cook,O3,12,20.38
+Traralgon,CO,1,0.09
+Traralgon,CO,2,0.09
+Traralgon,CO,3,0.12
+Traralgon,CO,4,0.15
+Traralgon,CO,5,0.25
+Traralgon,CO,6,0.26
+Traralgon,CO,7,0.3
+Traralgon,CO,8,0.2
+Traralgon,CO,9,0.17
+Traralgon,CO,10,0.16
+Traralgon,CO,11,0.17
+Traralgon,CO,12,0.12
+Traralgon,NO2,1,3.38
+Traralgon,NO2,2,3.96
+Traralgon,NO2,3,5.06
+Traralgon,NO2,4,5.75
+Traralgon,NO2,5,9.65
+Traralgon,NO2,8,4.86
+Traralgon,NO2,9,5.06
+Traralgon,NO2,10,3.87
+Traralgon,NO2,11,4.03
+Traralgon,NO2,12,3.1
+Traralgon,O3,1,12.76
+Traralgon,O3,2,15.9
+Traralgon,O3,3,16.29
+Traralgon,O3,4,12.24
+Traralgon,O3,5,11.23
+Traralgon,O3,6,10.56
+Traralgon,O3,7,12.66
+Traralgon,O3,8,13.85
+Traralgon,O3,9,21.13
+Traralgon,O3,10,21.49
+Traralgon,O3,11,21.03
+Traralgon,O3,12,18.62
+Traralgon,PM10,1,15.64
+Traralgon,PM10,2,20.57
+Traralgon,PM10,3,20.68
+Traralgon,PM10,4,12.55
+Traralgon,PM10,5,15.17
+Traralgon,PM10,6,13.55
+Traralgon,PM10,7,12.45
+Traralgon,PM10,8,15.72
+Traralgon,PM10,9,13.71
+Traralgon,PM10,10,15.12
+Traralgon,PM10,11,16.19
+Traralgon,PM10,12,16.69
+Traralgon,PM2.5,1,5.82
+Traralgon,PM2.5,2,6.66
+Traralgon,PM2.5,3,8.5
+Traralgon,PM2.5,4,7.04
+Traralgon,PM2.5,5,8.84
+Traralgon,PM2.5,6,10.29
+Traralgon,PM2.5,7,8.48
+Traralgon,PM2.5,8,9.35
+Traralgon,PM2.5,9,6.53
+Traralgon,PM2.5,10,6.17
+Traralgon,PM2.5,11,6.72
+Traralgon,PM2.5,12,6.6
+Traralgon,SO2,1,0.42
+Traralgon,SO2,2,0.38
+Traralgon,SO2,3,0.9
+Traralgon,SO2,4,0.58
+Traralgon,SO2,5,0.51
+Traralgon,SO2,6,0.85
+Traralgon,SO2,7,0.64
+Traralgon,SO2,8,0.79
+Traralgon,SO2,9,0.75
+Traralgon,SO2,10,0.46
+Traralgon,SO2,11,0.35
+Traralgon,SO2,12,0.46

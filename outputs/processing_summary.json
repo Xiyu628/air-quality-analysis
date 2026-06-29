@@ -1,0 +1,23 @@
+{
+  "processed_files": [
+    "correlations.csv",
+    "daily_pm25.csv",
+    "exceedance_counts.csv",
+    "monthly_summary.csv",
+    "sa2_exposure_seifa.geojson",
+    "station_pollutant_summary.csv",
+    "stations.csv",
+    "weekday_hour_patterns.csv"
+  ],
+  "quality_stats": {
+    "raw_rows": 816133,
+    "raw_columns": 14,
+    "rows_2024_target_pollutants": 308342,
+    "validation_flag_counts": {
+      "Y": 308342
+    },
+    "validated_rows_before_dedup": 308342,
+    "validated_rows_after_dedup": 292934,
+    "duplicate_rows_removed": 15408
+  }
+}

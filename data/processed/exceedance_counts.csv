@@ -1,0 +1,41 @@
+station,pollutant,exceed_days,total_days
+Alphington,PM10,0,356
+Alphington,PM2.5,6,322
+Box Hill,PM2.5,2,263
+Brighton,PM2.5,5,356
+Brooklyn,PM10,10,317
+Dandenong,PM10,0,356
+Dandenong,PM2.5,2,357
+Geelong South,PM10,14,344
+Geelong South,PM2.5,0,246
+Macleod,PM2.5,0,213
+Melbourne CBD,PM2.5,4,353
+Melton,PM2.5,2,351
+Mooroolbark,PM10,0,350
+Traralgon,PM10,0,356
+Traralgon,PM2.5,1,361
+Alphington,NO2,0,340
+Alphington,O3,0,340
+Alphington,SO2,0,340
+Altona North,NO2,0,230
+Altona North,SO2,0,337
+Dandenong,NO2,0,310
+Dandenong,O3,0,366
+Geelong South,NO2,0,280
+Geelong South,O3,0,340
+Geelong South,SO2,0,326
+Melton,O3,0,363
+Mooroolbark,O3,0,248
+Morwell East,SO2,0,343
+Morwell South,NO2,0,319
+Morwell South,O3,0,310
+Morwell South,SO2,0,279
+Point Cook,O3,0,366
+Traralgon,NO2,0,242
+Traralgon,O3,0,366
+Traralgon,SO2,0,366
+Alphington,CO,0,340
+Geelong South,CO,0,175
+Morwell East,CO,0,266
+Morwell South,CO,0,255
+Traralgon,CO,0,318
