@@ -1,31 +1,35 @@
 # Air Quality Analysis in Greater Melbourne
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-success?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-success?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square)
 
-A Python-based data analysis project investigating air quality patterns across Greater Melbourne using publicly available environmental and socio-economic datasets.
+An end-to-end Python data analysis project investigating air quality patterns and socio-economic factors across Greater Melbourne using publicly available datasets from **EPA Victoria** and the **Australian Bureau of Statistics (ABS)**.
 
-The project integrates air quality observations from **EPA Victoria** with **ABS SEIFA** socio-economic indicators to perform data cleaning, temporal analysis, geospatial analysis, statistical analysis, visualisation, and automated report generation.
+## Project Overview
+
+![Project Overview](figures/fig01_monthly_pm25_heatmap.png)
+
+This project builds a complete environmental data analysis pipeline, from validating raw datasets to producing publication-quality visualisations and analytical reports.
+
+The workflow integrates environmental monitoring data with socio-economic indicators to explore pollution patterns across Greater Melbourne through statistical and geospatial analysis.
 
 ---
 
-# Project Highlights
+## Project Highlights
 
-- Processed publicly available EPA Victoria air quality observations
+- Processed hourly air quality observations from EPA Victoria
 - Integrated environmental and socio-economic datasets
-- Estimated pollution exposure for SA2 regions
-- Performed temporal and spatial analysis
+- Estimated pollution exposure at SA2 level
+- Performed temporal and geospatial analysis
 - Generated publication-quality visualisations
-- Produced automated PDF analytical reports
-- Built an end-to-end reproducible data analysis pipeline
+- Produced automated PDF reports
+- Built a fully reproducible Python workflow
 
 ---
 
-# Skills Demonstrated
-
-This project demonstrates practical experience with:
+## Skills Demonstrated
 
 - Python Programming
 - Data Cleaning
@@ -36,11 +40,12 @@ This project demonstrates practical experience with:
 - Data Visualisation
 - Scientific Computing
 - Automation
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-# Technologies
+## Technologies
 
 - Python
 - Pandas
@@ -54,7 +59,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -67,7 +72,7 @@ This project demonstrates practical experience with:
 │
 ├── data/
 │   ├── processed/
-│   └── raw/                  (ignored in Git)
+│   └── raw/                (excluded from Git)
 │
 ├── figures/
 │
@@ -83,43 +88,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# Data Sources
-
-The project uses three publicly available datasets.
-
-### EPA Victoria
-
-Hourly Air Quality Data
-
-Contains hourly observations of:
-
-- PM2.5
-- PM10
-- NO₂
-- O₃
-- SO₂
-- CO
-
-### Australian Bureau of Statistics (ABS)
-
-SEIFA 2021
-
-Provides socio-economic indicators including:
-
-- IRSD
-- IRSAD
-- IER
-- IEO
-
-### ABS ASGS Edition 3
-
-SA2 Boundary Files
-
-Used for spatial matching and pollution exposure estimation.
-
----
-
-# Project Workflow
+## Project Workflow
 
 ```text
 Raw Datasets
@@ -143,16 +112,16 @@ Statistical Analysis
 Visualisation
       │
       ▼
-Automated PDF Report
+PDF Report Generation
 ```
 
 ---
 
-# Generated Outputs
+## Generated Outputs
 
-## Processed datasets
+### Processed Data
 
-The pipeline generates:
+The project automatically generates:
 
 - Monthly pollutant summaries
 - Daily PM2.5 statistics
@@ -163,101 +132,56 @@ The pipeline generates:
 
 ---
 
-## Figures
+## Project Preview
 
-The project automatically generates six figures.
+| Monthly PM2.5 Heatmap | SEIFA Correlation |
+|------------------------|-------------------|
+| ![](figures/fig01_monthly_pm25_heatmap.png) | ![](figures/fig05_seifa_correlation_heatmap.png) |
 
-- Monthly PM2.5 Heatmap
-- Daily PM2.5 Time Series
-- Weekday-Hour PM2.5 Pattern
-- Pollution Exceedance Heatmap
-- SEIFA Correlation Heatmap
-- PM2.5 vs IRSD Scatter Plot
-
----
-
-# Example Visualisations
-
-## Monthly PM2.5 Heatmap
-
-![](figures/fig01_monthly_pm25_heatmap.png)
+| Daily PM2.5 Time Series | PM2.5 vs IRSD |
+|--------------------------|---------------|
+| ![](figures/fig02_daily_pm25_timeseries.png) | ![](figures/fig06_pm25_irsd_scatter.png) |
 
 ---
 
-## Daily PM2.5 Time Series
+## Key Findings
 
-![](figures/fig02_daily_pm25_timeseries.png)
+The analysis reveals clear temporal and spatial variation in air pollution across Greater Melbourne.
 
----
-
-## Weekday-Hour PM2.5 Pattern
-
-![](figures/fig03_weekday_hour_pm25.png)
-
----
-
-## Pollution Exceedance Heatmap
-
-![](figures/fig04_exceedance_heatmap.png)
-
----
-
-## SEIFA Correlation Heatmap
-
-![](figures/fig05_seifa_correlation_heatmap.png)
-
----
-
-## PM2.5 vs IRSD
-
-![](figures/fig06_pm25_irsd_scatter.png)
-
----
-
-# Key Findings
-
-The analysis demonstrates clear temporal and spatial variations in air pollution across Greater Melbourne.
-
-The generated statistics and visualisations enable exploration of:
+The generated datasets and figures enable exploration of:
 
 - Monthly pollution trends
-- Daily pollution variation
+- Daily PM2.5 variation
 - Weekday-hour pollution patterns
 - Pollution exceedance frequency
-- Regional pollution exposure
+- Regional exposure differences
 - Relationships between pollution and socio-economic indicators
 
 ---
 
-# Installation
+## Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Xiyu628/air-quality-analysis.git
 cd air-quality-analysis
 ```
 
-Create a virtual environment
+Create a virtual environment:
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Download the required datasets from the official data providers and place them into:
-
-```text
-data/raw/
-```
-
-Run the complete workflow
+Run the complete workflow:
 
 ```bash
 python code/01_check_data.py
@@ -268,53 +192,35 @@ python code/04_generate_pdfs.py
 
 ---
 
-# Repository Contents
+## Data Sources
 
-Included
+This project uses publicly available datasets from:
 
-- Python source code
-- Processed datasets
-- Visualisations
-- Analytical report
-- Documentation
+- EPA Victoria AirWatch Hourly Air Quality Data
+- Australian Bureau of Statistics (ABS) SEIFA 2021
+- ABS ASGS Edition 3 SA2 Boundary Files
 
-Excluded
-
-- Raw datasets
-- Python virtual environment
-- Temporary files
+Large raw datasets are excluded from this repository because of their size and public availability.
 
 ---
 
-# Future Work
+## Future Work
 
-Potential improvements include:
+Potential extensions include:
 
 - Interactive dashboard using Plotly or Dash
 - Machine learning models for pollution prediction
 - Time-series forecasting
 - Advanced spatial interpolation
-- Web application deployment
+- Web deployment
 
 ---
 
-# Acknowledgements
-
-This project uses publicly available datasets provided by:
-
-- EPA Victoria
-- Australian Bureau of Statistics (ABS)
-
-The project is intended for educational and research purposes.
-
----
-
-# Author
+## Author
 
 **Xiyu Hao**
 
-Computer Science Student
-
+Computer Science Student  
 UNSW Sydney
 
 GitHub: https://github.com/Xiyu628
