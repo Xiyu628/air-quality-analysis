@@ -9,7 +9,6 @@ An end-to-end Python data analysis project investigating air quality patterns an
 
 ## Project Overview
 
-![Project Overview](figures/fig01_monthly_pm25_heatmap.png)
 
 This project builds a complete environmental data analysis pipeline, from validating raw datasets to producing publication-quality visualisations and analytical reports.
 
